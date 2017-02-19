@@ -1,3 +1,7 @@
 Not Cherry1
 Cherry
+<<<<<<< HEAD
 Not Cherry2
+=======
+>>>>>>> 425a19d... Cherry
+“bug fix”
